@@ -469,7 +469,6 @@ a:focus {
   max-height: 100%;
   -webkit-transition: all 0.3s;
   transition: all 0.3s;
-  opacity: 0.3;
 }
 
 .service_section .box .detail-box h5 {
